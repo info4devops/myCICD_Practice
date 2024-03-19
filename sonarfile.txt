@@ -1,5 +1,5 @@
 sonar.login=admin 
-sonar.password=Maha@Maha@123456!@# 
+sonar.password=Login@3203 
 sonar.projectKey=myJFrog-Job-01
 sonar.projectName=myJFrog-Job-01
 sonar.projectVersion=1.0 
