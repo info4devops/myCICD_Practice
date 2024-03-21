@@ -1,5 +1,5 @@
 ---
-- name: Deploy Java App on 
+- name: Deploy Java App on production server
   get_url:
     url: mhttp://172.174.80.38:8082/artifactory/mySIT-Repo/com/maha/VamsiLogin/2.0/VamsiLogin-2.0.war
     dest: /opt/tomcat/webapps/login.war
